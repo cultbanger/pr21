@@ -1,4 +1,4 @@
-# 🚀 Мій ПК збір
+![image](https://github.com/user-attachments/assets/b07766ab-0f9c-4987-a3ca-1ff65d710349)# 🚀 Мій ПК збір
 
 Це збірка потужного комп'ютера для ігор, роботи та інших завдань. У таблиці нижче наведені всі компоненти збірки разом із посиланнями на зображення.
 
@@ -6,7 +6,7 @@
 
 | Компонент | Модель | Ціна (грн) | Зображення |
 |-----------|--------|------------|------------|
-| **Блок живлення** | Zalman ZM500-XEII | 1653,3 | ![Зображення](https://example.com/psu.jpg) |
+| **Блок живлення** | Zalman ZM500-XEII | 1653,3 | ![Зображення]([https://example.com/psu.jpg](https://www.google.com/aclk?sa=l&ai=DChcSEwjm1cvYut6LAxXfXJEFHbNwFsUYABAFGgJscg&ae=2&co=1&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYq9y6cLJTnCsrwhjP0Dk5KkXYEGEe3Is5wbiKidtzKs6Httk2DPN70aAgmKEALw_wcB&sig=AOD64_1XSu-mMe22hthIBAtr3IMxBpyD-Q&ctype=5&q=&ved=2ahUKEwi6qMTYut6LAxWCJRAIHaVRCW4Q9aACKAB6BAgEEA8&adurl=)) |
 | **Відеокарта** | Gigabyte GeForce RTX 3060 Windforce OC 12G | 11481,25 | ![Зображення](https://example.com/gpu.jpg) |
 | **Корпус** | GameMax Precision Black | 1461,25 | ![Зображення](https://example.com/case.jpg) |
 | **Материнська плата** | Asus Prime A620M-K | 4065,19 | ![Зображення](https://example.com/motherboard.jpg) |
