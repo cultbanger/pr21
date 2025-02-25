@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b07766ab-0f9c-4987-a3ca-1ff65d710349)# 🚀 Мій ПК збір
+# 🚀 Мій ПК збір
 
 Це збірка потужного комп'ютера для ігор, роботи та інших завдань. У таблиці нижче наведені всі компоненти збірки разом із посиланнями на зображення.
 
@@ -6,26 +6,22 @@
 
 | Компонент | Модель | Ціна (грн) | Зображення |
 |-----------|--------|------------|------------|
-| **Блок живлення** | Zalman ZM500-XEII | 1653,3 | ![Зображення]([https://example.com/psu.jpg](https://www.google.com/aclk?sa=l&ai=DChcSEwjm1cvYut6LAxXfXJEFHbNwFsUYABAFGgJscg&ae=2&co=1&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYq9y6cLJTnCsrwhjP0Dk5KkXYEGEe3Is5wbiKidtzKs6Httk2DPN70aAgmKEALw_wcB&sig=AOD64_1XSu-mMe22hthIBAtr3IMxBpyD-Q&ctype=5&q=&ved=2ahUKEwi6qMTYut6LAxWCJRAIHaVRCW4Q9aACKAB6BAgEEA8&adurl=)) |
-| **Відеокарта** | Gigabyte GeForce RTX 3060 Windforce OC 12G | 11481,25 | ![Зображення]([https://example.com/gpu.jpg](https://www.google.com/aclk?sa=l&ai=DChcSEwihlPT9ut6LAxXoVJEFHXnuESAYABAPGgJscg&ae=2&co=1&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYrZYuYLIswK6dJcYsKrR2DEiijfDn7a8WiqhT6jbnuWSn-adC-1KIsaAkZKEALw_wcB&sig=AOD64_2uiwMrqZJHqdvbN0OuwC4TSNKvWg&ctype=5&q=&ved=2ahUKEwjOnuv9ut6LAxWnGxAIHef9H1kQ9aACKAB6BAgHEBE&adurl=)) |
-| **Корпус** | GameMax Precision Black | 1461,25 | ![Зображення](https://example.com/case.jpg) |
-| **Материнська плата** | Asus Prime A620M-K | 4065,19 | ![Зображення](https://example.com/motherboard.jpg) |
-| **Монітор** | Acer Nitro VG240Y 23.8" IPS 165Hz | 5845,00 | ![Зображення](https://example.com/monitor.jpg) |
-| **ОЗП** | Transcend DDR5 16GB 4800MHz | 3811,77 | ![Зображення](https://example.com/ram.jpg) |
-| **SSD** | Apacer AS2280P4 1TB PCIe 3.0 NVMe | 2087,5 | ![Зображення](https://example.com/ssd.jpg) |
-| **Процесор** | AMD Ryzen 5 8400F (6C/12T, 4.2 GHz) | 4175,00 | ![Зображення](https://example.com/cpu.jpg) |
-| **Система охолодження** | Cooler Master MLW-D24M-A18P | 3414,73 | ![Зображення](https://example.com/cooling.jpg) |
+| **Блок живлення** | Zalman ZM500-XEII | 1653,3 | ![Зображення](https://content.rozetka.com.ua/goods/images/big/36042710.jpg) |
+| **Відеокарта** | Gigabyte GeForce RTX 3060 Windforce OC 12G | 11481,25 | ![Зображення](https://img.telemart.ua/514423-658802-product_popup/gigabyte-geforce-rtx-3060-windforce-oc-12228mb-gv-n3060wf2oc-12gd-20.png) |
+| **Корпус** | GameMax Precision Black | 1461,25 | ![Зображення](https://img.telemart.ua/446658-589286-product_popup/gamemax-precision-tempered-glass-bez-bp-black.png) |
+| **Материнська плата** | Asus Prime A620M-K | 4065,19 | ![Зображення](https://content2.rozetka.com.ua/goods/images/big/374825873.jpg) |
+| **Монітор** | Acer Nitro VG240Y 23.8" IPS 165Hz | 5845,00 | ![Зображення](https://content2.rozetka.com.ua/goods/images/big/435791517.jpg) |
+| **ОЗП** | Kingston Fury Beast DDR5-6000 8192MB PC5-48000 | 3811,77 | ![Зображення](https://content1.rozetka.com.ua/goods/images/big/516789530.jpg) |
+| **SSD** | Apacer AS2280P4 1TB PCIe 3.0 NVMe | 2087,5 | ![Зображення](https://click.ua/content/shop/products/81487/photos/nakopitel-ssd-1tb-apacer-as2280p4x-m-2-pcie-3-0-3d-tlc-ap1tbas2280p4x-1-679x188-b871.jpg) |
+| **Процесор** | AMD Ryzen 5 8400F (6C/12T, 4.2 GHz) | 4175,00 | ![Зображення](https://click.ua/content/shop/products/137452/photos/protsessor-amd-ryzen-5-8400f-4-2ghz-16mb-65w-am5-tray-100-000001591-800x800-df1c.jpg) |
+| **Система охолодження** | Cooler Master MLW-D24M-A18P | 3414,73 | ![Зображення](https://content1.rozetka.com.ua/goods/images/big/269248144.jpg) |
 
 ## 🎮 Периферія
 
 | Пристрій | Модель | Ціна (грн) | Зображення |
 |----------|--------|------------|------------|
-| **Клавіатура** | GamePro MK130R Hot-Swap Red Switch 60% RGB Black | 1399 | ![Зображення](https://example.com/keyboard.jpg) |
-| **Мишка** | Logitech G102 Lightsync Lilac (910-005854) | 1300 | ![Зображення](https://example.com/mouse.jpg) |
-| **Килимок** | - | 400 | ![Зображення](https://example.com/mousepad.jpg) |
+| **Клавіатура** | GamePro MK130R Hot-Swap Red Switch 60% RGB Black | 1399 | ![Зображення](https://content2.rozetka.com.ua/goods/images/big/465863058.jpg) |
+| **Мишка** | Logitech G102 Lightsync Lilac (910-005854) | 1300 | ![Зображення](https://content1.rozetka.com.ua/goods/images/big/185402801.jpg) |
+| **Килимок** | - | 400 | ![Зображення](https://img.kwcdn.com/product/1e78ea4f6b/8fc5a5e7-1075-483d-bca3-3e23c03520d5_1600x1600.jpeg?imageView2/2/w/1300/q/80/format/webp) |
 
-## 📌 Висновок
 
-Ця збірка чудово підійде для ігор на високих налаштуваннях, стрімінгу та роботи з графікою. Завдяки потужному процесору, великому обсягу оперативної пам’яті та швидкому SSD диску, продуктивність ПК буде на високому рівні. 🎮🔥
-
----
