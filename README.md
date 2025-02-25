@@ -7,7 +7,7 @@
 | Компонент | Модель | Ціна (грн) | Зображення |
 |-----------|--------|------------|------------|
 | **Блок живлення** | Zalman ZM500-XEII | 1653,3 | ![Зображення]([https://example.com/psu.jpg](https://www.google.com/aclk?sa=l&ai=DChcSEwjm1cvYut6LAxXfXJEFHbNwFsUYABAFGgJscg&ae=2&co=1&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYq9y6cLJTnCsrwhjP0Dk5KkXYEGEe3Is5wbiKidtzKs6Httk2DPN70aAgmKEALw_wcB&sig=AOD64_1XSu-mMe22hthIBAtr3IMxBpyD-Q&ctype=5&q=&ved=2ahUKEwi6qMTYut6LAxWCJRAIHaVRCW4Q9aACKAB6BAgEEA8&adurl=)) |
-| **Відеокарта** | Gigabyte GeForce RTX 3060 Windforce OC 12G | 11481,25 | ![Зображення](https://example.com/gpu.jpg) |
+| **Відеокарта** | Gigabyte GeForce RTX 3060 Windforce OC 12G | 11481,25 | ![Зображення]([https://example.com/gpu.jpg](https://www.google.com/aclk?sa=l&ai=DChcSEwihlPT9ut6LAxXoVJEFHXnuESAYABAPGgJscg&ae=2&co=1&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYrZYuYLIswK6dJcYsKrR2DEiijfDn7a8WiqhT6jbnuWSn-adC-1KIsaAkZKEALw_wcB&sig=AOD64_2uiwMrqZJHqdvbN0OuwC4TSNKvWg&ctype=5&q=&ved=2ahUKEwjOnuv9ut6LAxWnGxAIHef9H1kQ9aACKAB6BAgHEBE&adurl=)) |
 | **Корпус** | GameMax Precision Black | 1461,25 | ![Зображення](https://example.com/case.jpg) |
 | **Материнська плата** | Asus Prime A620M-K | 4065,19 | ![Зображення](https://example.com/motherboard.jpg) |
 | **Монітор** | Acer Nitro VG240Y 23.8" IPS 165Hz | 5845,00 | ![Зображення](https://example.com/monitor.jpg) |
