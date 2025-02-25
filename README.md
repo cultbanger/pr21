@@ -20,9 +20,9 @@
 
 | Пристрій | Модель | Ціна (грн) | Зображення |
 |----------|--------|------------|------------|
-| **Клавіатура** | GamePro MK130R Hot-Swap Red Switch 60% RGB Black | 1399 | ![Зображення](https://content2.rozetka.com.ua/goods/images/big/465863058.jpg) |
-| **Мишка** | Logitech G102 Lightsync Lilac (910-005854) | 1300 | ![Зображення](https://content1.rozetka.com.ua/goods/images/big/185402801.jpg) |
+| **Клавіатура** | GamePro MK130R Hot-Swap Red Switch 60% RGB Black | 1000 | ![Зображення](https://content2.rozetka.com.ua/goods/images/big/465863058.jpg) |
+| **Мишка** | Logitech G102 Lightsync Lilac (910-005854) | 1000 | ![Зображення](https://content1.rozetka.com.ua/goods/images/big/185402801.jpg) |
 | **Килимок** | - | 400 | ![Зображення](https://img.kwcdn.com/product/1e78ea4f6b/8fc5a5e7-1075-483d-bca3-3e23c03520d5_1600x1600.jpeg?imageView2/2/w/1300/q/80/format/webp) |
 
-
+Загальна ціна збірки 40461 UAH
 ![image](https://github.com/user-attachments/assets/ffe2d6fd-7847-44ee-8c0e-da3856653026)
